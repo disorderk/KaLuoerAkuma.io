@@ -1,0 +1,42 @@
+body{
+    padding-top: 0px;
+}
+
+
+.akuma-wrapper{
+
+    
+}
+
+.bilibilititle{
+    background-image: url(/img/bilibili.png);
+    width: 1280px;
+    height: 200px;
+}
+
+.akumaava{
+    width: 80px;
+    height: 80px;
+    object-fit: fill;
+    border-radius: 50%;
+    overflow:hidden;
+}
+
+.akumaava img{
+    width: 100%;
+    height: 100%;
+}
+
+.text{
+    padding-top: 5px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.text h1{
+    color: #ff00cf;
+}
+
+.space{
+    height: 60px;
+}
